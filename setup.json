@@ -5,7 +5,7 @@
     "api_id": "39690918",
     "api_hash": "4f1ab2b4a61d2dae7ac34db4cf7ab2f5",
     "workers": 8,
-    "db_uri": "mongodb+srv://Tonicveil:<db_password>@cluster0.vmckaf5.mongodb.net/?appName=Cluster0",
+    "db_uri": "mongodb+srv://Tonicveil:bhaimerajay98mlpokn@cluster0.vmckaf5.mongodb.net/?appName=Cluster0",
     "db_name": "TonicveilBot",
     "fsubs": [[-1002228752064, true, 5]], 
     "db": -1004471231442,
