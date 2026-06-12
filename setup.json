@@ -1,23 +1,25 @@
-{
-  "session": "ses",
-  "token": "8087970550:AAHPmaGGEouFv-lrB2Vx44jZ0adLkJgYVc4",
-  "api_id": "39690918",
-  "api_hash": "4f1ab2b4a61d2dae7ac34db4cf7ab2f5",
-  "workers": 8,
-  "db_uri": "mongodb+srv://Tonicveil:tonicveil12345@cluster0.vmckaf5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-  "db_name": "TonicveilBot",
-  "fsubs": [[-1002228752064, true, 5]],
-  "db": -1004471231442,
-  "auto_del": 0,
-  "messages": {
-    "START": "<blockquote expandable>__Welcome! Yahan tumhe saari files milengi.__</blockquote>",
-    "FSUB": "",
-    "ABOUT": "This bot is operated by Tonicveil Admin.",
-    "REPLY": "Wait karo bhai...",
-    "START_PHOTO": "",
-    "FSUB_PHOTO": ""
-  },
-  "admins": [7024921019],
-  "disable_btn": true,
-  "protect": false
-}
+[
+  {
+    "session": "ses",
+    "token": "8087970550:AAHPmaGGEouFv-lrB2Vx44jZ0adLkJgYVc4",
+    "api_id": "39690918",
+    "api_hash": "4f1ab2b4a61d2dae7ac34db4cf7ab2f5",
+    "workers": 8,
+    "db_uri": "mongodb+srv://Tonicveil:tonicveil12345@cluster0.vmckaf5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "db_name": "TonicveilBot",
+    "fsubs": [[-1002228752064, true, 5]],
+    "db": -1004471231442,
+    "auto_del": 0,
+    "messages": {
+      "START": "<blockquote expandable>__Welcome! Yahan tumhe saari files milengi.__</blockquote>",
+      "FSUB": "",
+      "ABOUT": "This bot is operated by Tonicveil Admin.",
+      "REPLY": "Wait karo bhai...",
+      "START_PHOTO": "",
+      "FSUB_PHOTO": ""
+    },
+    "admins": [7024921019],
+    "disable_btn": true,
+    "protect": false
+  }
+]
